@@ -22,7 +22,7 @@ Additionally, I’m gaining experience with database systems, both MySQL and MS 
 [![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 [![.NET](https://skillicons.dev/icons?i=dotnet)](https://skillicons.dev)
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
-[![MS SQL Server](https://skillicons.dev/icons?i=mssql)](https://skillicons.dev)
+![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232F?style=for-the-badge&logo=react&logoColor=61DAFB)
 [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
