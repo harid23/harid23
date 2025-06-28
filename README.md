@@ -26,4 +26,4 @@ Additionally, I’m gaining experience with database systems, both MySQL and MS 
 ### 📫 Let’s Connect
 💌 Email: harishid2456@gmail.com
 🌐 Portfolio: [Coming Soon...]
-🔗 [LinkedIn] | [Instagram]
+🔗 [!LinkedIn](https://www.linkedin.com/in/hariharand23) | [Instagram]
