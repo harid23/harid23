@@ -9,10 +9,10 @@
 📍 Based in Chennai, India
 
 ## 🚀 About Me
-I’m a highly motivated and passionate final-year IT student with a strong foundation in Core Java and .NET Development. I love building applications from scratch, and I specialize in API development, backend logic, and full-stack solutions.
+I’m a highly motivated and passionate final-year Computer Science and Business System student with a strong foundation in Core Java and .NET Development. I love building applications from scratch, and I specialize in API development, backend logic, and full-stack solutions.
  <br>
   <br>
-Currently, I am exploring React Native for mobile development while continuously improving my backend skills. My goal is to leverage my expertise to create seamless, user-friendly solutions across platforms.
+Currently, I am exploring React Native for application development while continuously improving my backend skills. My goal is to leverage my expertise to create seamless, user-friendly solutions across platforms.
  <br>
   <br>
 Additionally, I’m gaining experience with database systems, both MySQL and MS SQL Server, ensuring my applications can handle complex data efficiently.
