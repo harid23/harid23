@@ -19,15 +19,15 @@ Additionally, I’m gaining experience with database systems, both MySQL and MS 
 
 
 ### 🚀 Tech Stack
+
 **🧠 Languages & Frameworks**  
 [![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 [![.NET](https://skillicons.dev/icons?i=dotnet)](https://skillicons.dev)
 [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
 
-
-**🗄️ Databases**
+**🗄️ Databases**  
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
-[![MSSQL](https://skillicons.dev/icons?i=mssql)](https://skillicons.dev)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 **🌐 Web Technologies**  
 [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
