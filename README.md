@@ -18,25 +18,26 @@ Currently, I am exploring React Native for application development while continu
 Additionally, I’m gaining experience with database systems, both MySQL and MS SQL Server, ensuring my applications can handle complex data efficiently.
 
 
-### 🛠️ Tech Stack
-**Languages & Frameworks**
-- ![Java](https://skillicons.dev/icons?i=java) Java  
-- ![.NET](https://skillicons.dev/icons?i=dotnet) .NET  
-- ![Node.js](https://skillicons.dev/icons?i=nodejs) Node.js  
-- ![React](https://skillicons.dev/icons?i=react) React  
-- ![React Native](https://img.shields.io/badge/React_Native-20232F?style=for-the-badge&logo=react&logoColor=61DAFB) React Native  
-- ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) Bootstrap  
+### 🚀 Tech Stack
+**🧠 Languages & Frameworks**  
+[![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+[![.NET](https://skillicons.dev/icons?i=dotnet)](https://skillicons.dev)
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
 
-**Databases**
-- ![MySQL](https://skillicons.dev/icons?i=mysql) MySQL  
-- ![MSSQL](https://skillicons.dev/icons?i=mssql) Microsoft SQL Server  
 
-**Web Technologies**
-- ![HTML](https://skillicons.dev/icons?i=html) HTML  
-- ![CSS](https://skillicons.dev/icons?i=css) CSS  
+**🗄️ Databases**
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+[![MSSQL](https://skillicons.dev/icons?i=mssql)](https://skillicons.dev)
 
-**Version Control**
-- ![Git](https://skillicons.dev/icons?i=git) Git  
+**🌐 Web Technologies**  
+[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+[![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+![React Native](https://img.shields.io/badge/React_Native-20232F?style=for-the-badge&logo=react&logoColor=61DAFB)
+[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
+
+**🔧 Version Control**  
+[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 
 ### 🌐 Let’s Connect
 💌 Email: harishid2456@gmail.com
