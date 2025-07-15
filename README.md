@@ -28,6 +28,8 @@ Additionally, I’m gaining experience with database systems, both MySQL and MS 
 [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
 [![Node](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+[![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
 
 ### 🌐 Let’s Connect
 💌 Email: harishid2456@gmail.com
