@@ -19,17 +19,24 @@ Additionally, I’m gaining experience with database systems, both MySQL and MS 
 
 
 ### 🛠️ Tech Stack
-[![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
-[![.NET](https://skillicons.dev/icons?i=dotnet)](https://skillicons.dev)
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
-![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232F?style=for-the-badge&logo=react&logoColor=61DAFB)
-[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
-[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
-[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
-[![Node](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
-[![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
-[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
+**Languages & Frameworks**
+- ![Java](https://skillicons.dev/icons?i=java) Java  
+- ![.NET](https://skillicons.dev/icons?i=dotnet) .NET  
+- ![Node.js](https://skillicons.dev/icons?i=nodejs) Node.js  
+- ![React](https://skillicons.dev/icons?i=react) React  
+- ![React Native](https://img.shields.io/badge/React_Native-20232F?style=for-the-badge&logo=react&logoColor=61DAFB) React Native  
+- ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) Bootstrap  
+
+**Databases**
+- ![MySQL](https://skillicons.dev/icons?i=mysql) MySQL  
+- ![MSSQL](https://skillicons.dev/icons?i=mssql) Microsoft SQL Server  
+
+**Web Technologies**
+- ![HTML](https://skillicons.dev/icons?i=html) HTML  
+- ![CSS](https://skillicons.dev/icons?i=css) CSS  
+
+**Version Control**
+- ![Git](https://skillicons.dev/icons?i=git) Git  
 
 ### 🌐 Let’s Connect
 💌 Email: harishid2456@gmail.com
