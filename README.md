@@ -9,18 +9,16 @@
 📍 Based in Chennai, India
 
 ## 🚀 About Me
-I’m a highly motivated and passionate final-year Computer Science and Business System student with a strong foundation in Core Java and .NET Development. I love building applications from scratch, and I specialize in API development, backend logic, and full-stack solutions.
+I’m a highly motivated and passionate final-year **Computer Science and Business System ** student with a strong foundation in Core Java and .NET Development. I love building applications from scratch, and I specialize in API development, backend logic, and full-stack solutions.
  <br>
-  <br>
 Currently, I am exploring React Native for application development while continuously improving my backend skills. My goal is to leverage my expertise to create seamless, user-friendly solutions across platforms.
  <br>
-  <br>
 Additionally, I’m gaining experience with database systems, both MySQL and MS SQL Server, ensuring my applications can handle complex data efficiently.
 
 
 ### 🚀 Tech Stack
 
-**🧠 Languages & Frameworks**  
+**🧠 Languages**  
 [![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 [![.NET](https://skillicons.dev/icons?i=dotnet)](https://skillicons.dev)
 [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
@@ -29,7 +27,7 @@ Additionally, I’m gaining experience with database systems, both MySQL and MS 
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-**🌐 Web Technologies**  
+**🌐 Web Technologies & Frameworks**  
 [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
 [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
@@ -40,8 +38,8 @@ Additionally, I’m gaining experience with database systems, both MySQL and MS 
 [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 
 ### 🌐 Let’s Connect
-💌 Email: harishid2456@gmail.com
+📧 **Email**: harishid2456@gmail.com
  <br>
-🌟 Portfolio: [Coming Soon...]
+🌐 **Portfolio**: [Coming Soon...]
  <br>
-🔗 [!LinkedIn](https://www.linkedin.com/in/hariharand23) | [!Instagram](https://www.instagram.com/in)
+🔗 🔗 **Socials**:[!LinkedIn](https://www.linkedin.com/in/hariharand23) | [!Instagram](https://www.instagram.com/in)
